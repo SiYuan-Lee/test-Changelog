@@ -17,11 +17,12 @@
   },
   "homepage": "https://github.com/SiYuan-Lee/test-Changelog#readme",
   "devDependencies": {
-    "cz": "^1.8.2"
+    "cz": "^1.8.2",
+    "cz-conventional-changelog": "^3.0.2"
   },
   "config": {
     "commitizen": {
-      "path": "./node_modules/cz"
+      "path": "./node_modules/cz-conventional-changelog"
     }
   }
 }
